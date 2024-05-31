@@ -1,0 +1,1 @@
+Basic logo symbol
