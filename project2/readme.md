@@ -1,1 +1,1 @@
-basic logo symbol
+Basic logo symbol
