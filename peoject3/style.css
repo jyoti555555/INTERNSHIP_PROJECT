@@ -11,18 +11,12 @@
     height: 700px;
     background: url(./shadipic\ 35.jpg)  no-repeat center/cover;
     background-position-y: -453px;
-   
-   
-   
-    
-
 }
 #b{
     width: 100%;
     height: 75px;
-    
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 #c {
     /* border: 2px solid black; */
